@@ -1,8 +1,11 @@
 [tool.poetry]
-name = "prj"
+name = "bm2q"
 version = "0.1.0"
 description = ""
-authors = ["tristanqtn <tristan.querton@gmail.com>"]
+authors = [
+    "tristanqtn <tristan.querton@gmail.com>",
+    "Pierre-Benoît Querton <github@querton.com>¨",
+]
 readme = "README.md"
 
 [tool.poetry.dependencies]
