@@ -11,7 +11,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pygame = "^2.6.0"
-fastapi = "^0.114.2"
+fastapi = {extras = ["standard"], version = "^0.114.2"}
 websocket = "^0.2.1"
 
 
