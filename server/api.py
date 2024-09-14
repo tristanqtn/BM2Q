@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from player.entities import Game, Player
+from entities import Game, Player
 import uuid
 
 app = FastAPI()

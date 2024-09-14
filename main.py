@@ -1,4 +1,4 @@
-from player.entities import Game
+from entities import Game
 
 g = Game ()
 g.show_decks()
