@@ -14,6 +14,7 @@ pygame = "^2.6.0"
 fastapi = {extras = ["standard"], version = "^0.114.2"}
 websocket = "^0.2.1"
 uvicorn = "^0.30.6"
+streamlit = "^1.38.0"
 
 
 [tool.poetry.group.dev.dependencies]
